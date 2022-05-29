@@ -1,6 +1,4 @@
 # Using bs4 to get the charger location from Plugsahre website:
-import os
-from pathlib import Path
 import requests
 import bs4
 
