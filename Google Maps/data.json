@@ -1,0 +1,798 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uED63i-Ss3c1QHiplwLPy-rr-FQGUry2ENk-Esqe6Z7XA32fyuQoke8XwYKbO-cm0osBemNchHHTU21maQVtDFF91BkcLSDVFho6HsHxfyItrVaUABQhmcXZIO4Fp3IpE_AlcEpviCEqR3sV6v6ZGqTQjM1XiWSiLrUAvG2YAW-t0bGwpogGh4IxdtQkV0iiIoPX46w4qncsccVGWgNGdcV7u8NopxyIw9ArPiilOrtIFZwUhzcJy65UiIKodbzTIEt4vL3xgDkRWEdam0yCAS82gUz9Pn3-YnTsVRwyAyTjk3-eCaV-xEjGbpm3POgva7K1xfLmHT7z3t46OLWVtKJpmQuP14-BIbTa_swSzLQCqvYvE0HA1sXqrE33ZO-n4QQLPwP4EDldjTnbgVpxZXrMAFskq1lfWEB-BICMCf_EuqFF9liCiih_6W7Ncg",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.8208618,
+               "lng" : 145.0398254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.81953092010728,
+                  "lng" : 145.0413331798927
+               },
+               "southwest" : {
+                  "lat" : -37.82223057989272,
+                  "lng" : 145.0386335201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ChargePoint Charging Station",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100622260922262058721\"\u003eMomo Lin\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBZ5lMfHkS0AkcBRkrk29wmPIQyyBjT13KWQyGTLE_eT62u3MKk1qcoAFct2U5C5wvdIfMdKU2HkufFaxeEfrHPn2ey4iEb4RgTg1ZAaRDRQYRsADxIC7O8iVci1Z5ipCZTSgb1dyio_fJa1I-HzdkfMz2EsAfDfP_YefwwXAoUfiEf",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJi78iPy1C1moRdm-kTEA4AuM",
+         "plus_code" : {
+            "compound_code" : "52HQ+MW Hawthorn, Victoria",
+            "global_code" : "4RJ752HQ+MW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJi78iPy1C1moRdm-kTEA4AuM",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "20 William St, Hawthorn"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.90318450000001,
+               "lng" : 145.0954823
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.90181677010728,
+                  "lng" : 145.0966826298927
+               },
+               "southwest" : {
+                  "lat" : -37.90451642989272,
+                  "lng" : 145.0939829701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "EVolution Electric Car Charger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJm03yiuhr1moRbuWia5dB4ac",
+         "plus_code" : {
+            "compound_code" : "33WW+P5 Oakleigh, Victoria",
+            "global_code" : "4RJ733WW+P5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJm03yiuhr1moRbuWia5dB4ac",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "28 Westminster St, Oakleigh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.886676,
+               "lng" : 145.081194
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.88491522010727,
+                  "lng" : 145.08718615
+               },
+               "southwest" : {
+                  "lat" : -37.88761487989272,
+                  "lng" : 145.07842115
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tesla Destination Charger",
+         "photos" : [
+            {
+               "height" : 1824,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101601442281385364445\"\u003eNigel Figueirado\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB2W8yhpWKdPEx9OrX6o-FiRL8l-u1paBxn7mtxpx1MDhptPgTs2AUzZLiZ5CL8IWGG6dTj_L4m5arj_NmhBjrne5PRFZgYibNt5lmYi_85K6A46DXvDCFad0eb9UyGBmkFE53AX_5fPjK3nkK_eSAY0L2h17kqi2BjVsQ1bVMRow6B",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJE9r2lGhq1moRcqdSmrmBUQM",
+         "plus_code" : {
+            "compound_code" : "437J+8F Chadstone, Victoria",
+            "global_code" : "4RJ7437J+8F"
+         },
+         "rating" : 4,
+         "reference" : "ChIJE9r2lGhq1moRcqdSmrmBUQM",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "1341 Dandenong Rd, Chadstone"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.83214299999999,
+               "lng" : 144.995688
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.83079732010728,
+                  "lng" : 144.9970870298927
+               },
+               "southwest" : {
+                  "lat" : -37.83349697989272,
+                  "lng" : 144.9943873701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tesla Supercharger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106853190783122038127\"\u003eCenakhoa Nguyen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBZkHMm74AwsjaV9X2Q9wuFbKLf7IikDKXeRGLnZYrQ3N55aQZgNzo44mZN-66WbcOWoGL1RRRd9IfJZ3UKVh8BOMxUL19PvilnUxRc9RRpKo4Q5fjNAy2oAtyKSasOTFGL3BEkGMEEQmUNq-n7AKkpLesVKDy1BRBHMdVKNz_eGLkm",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4dCvlY9C1moR2HtYKzTzUD4",
+         "plus_code" : {
+            "compound_code" : "5X9W+47 Cremorne, Victoria",
+            "global_code" : "4RJ65X9W+47"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ4dCvlY9C1moR2HtYKzTzUD4",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 47,
+         "vicinity" : "650 Church St, Cremorne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.9427717,
+               "lng" : 145.117778
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.94142867010729,
+                  "lng" : 145.1191816298927
+               },
+               "southwest" : {
+                  "lat" : -37.94412832989273,
+                  "lng" : 145.1164819701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "EVup Charging Station",
+         "photos" : [
+            {
+               "height" : 2269,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108038685844330011075\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA359cYnzBsETr5o8IWCk7xqy_SXDI7CllXthx2RppRj39vHSloEKPpl7CZF5kMrTx_Qhs0vwLct97oOj_F0aXSuR4KgWpFwJB2fVvo1sjCAt_B54-l-tMp81Z1E6tm7GLkKj20QJdgizUtDRatzA585knEroywQ8NHzira2i4DfUSc",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJeejL4VJr1moRW5jAOWSPLxk",
+         "plus_code" : {
+            "compound_code" : "3449+V4 Clayton South, Victoria",
+            "global_code" : "4RJ73449+V4"
+         },
+         "rating" : 3,
+         "reference" : "ChIJeejL4VJr1moRW5jAOWSPLxk",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Unit 32/536 Clayton Rd, Clayton South"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.765595,
+               "lng" : 144.922798
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.76438462010728,
+                  "lng" : 144.9245413798927
+               },
+               "southwest" : {
+                  "lat" : -37.76708427989273,
+                  "lng" : 144.9218417201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tesla Supercharger",
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106111989935057152924\"\u003eAswini Ray\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED-8HkmFVgMD2azYiCP9V2JfmCkEjUN1xPVSnLY19hf2T4aRmgfIkdvWzHyC5tQ4NdajJRMjOyyH2eCBY7m76Jys1UUvmLXdjMKTPhKOyagMT48SdOvpMcYYkE5sNhdNRGcdu7wySzWBe3J0Ox0AfbRF843uSQjvY-OJjay1Oe6mfXV",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJSQto7_Nc1moRKbAVdsd9hko",
+         "plus_code" : {
+            "compound_code" : "6WMF+Q4 Moonee Ponds, Victoria",
+            "global_code" : "4RJ66WMF+Q4"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJSQto7_Nc1moRKbAVdsd9hko",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "Moonee Ponds Central Kmart Mall, Moonee Ponds Central - Level P2, 14-16 Hall St, Moonee Ponds"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.8486608,
+               "lng" : 144.9925299
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.84741732010728,
+                  "lng" : 144.9938619298927
+               },
+               "southwest" : {
+                  "lat" : -37.85011697989273,
+                  "lng" : 144.9911622701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Chargefox Charging Station",
+         "place_id" : "ChIJ8S_zxG1p1moR2lRGkD76z0o",
+         "plus_code" : {
+            "compound_code" : "5X2V+G2 Prahran, Victoria",
+            "global_code" : "4RJ65X2V+G2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ8S_zxG1p1moR2lRGkD76z0o",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Prahran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.6830604,
+               "lng" : 145.0710002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.68171192010728,
+                  "lng" : 145.0723634798927
+               },
+               "southwest" : {
+                  "lat" : -37.68441157989272,
+                  "lng" : 145.0696638201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Evie Charging Station",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1512,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108236515768694019680\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB9MMJJg6ljDp7bV3zm3bLO27SZPKyDckyzVYq1x4ihXBXRjF_C9KfXPQE-8vJ4Gmnn7eDarGZQ3CT-qAp515_k1Vqa_5AUqcAfWGf28M-Y-i9fA94pHe_-84ovRM2ytspY2bSqWKN30QkmP5XexQfhFvf9mu_6VLy6gVyw32IZgD4V",
+               "width" : 2016
+            }
+         ],
+         "place_id" : "ChIJXxCm1N9I1moR7f2S-vSEcM8",
+         "plus_code" : {
+            "compound_code" : "838C+QC Bundoora, Victoria",
+            "global_code" : "4RJ7838C+QC"
+         },
+         "rating" : 2,
+         "reference" : "ChIJXxCm1N9I1moR7f2S-vSEcM8",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Janefield Dr, Bundoora"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.9509025,
+               "lng" : 145.0803493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.94933617010728,
+                  "lng" : 145.0817443298927
+               },
+               "southwest" : {
+                  "lat" : -37.95203582989272,
+                  "lng" : 145.0790446701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ChargePoint Charging Station",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJJ0tpk89r1moRD1I8RpT_sg4",
+         "plus_code" : {
+            "compound_code" : "23XJ+J4 Heatherton, Victoria",
+            "global_code" : "4RJ723XJ+J4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJJ0tpk89r1moRD1I8RpT_sg4",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "20 Corporate Dr, Heatherton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.7852548,
+               "lng" : 145.1257933
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.7840964,
+                  "lng" : 145.1290382
+               },
+               "southwest" : {
+                  "lat" : -37.78801279999999,
+                  "lng" : 145.1231298
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ChargePoint Charging Station",
+         "place_id" : "ChIJIcimmm9H1moRi2X6u-hGpfo",
+         "plus_code" : {
+            "compound_code" : "647G+V8 Doncaster, Victoria",
+            "global_code" : "4RJ7647G+V8"
+         },
+         "rating" : 2,
+         "reference" : "ChIJIcimmm9H1moRi2X6u-hGpfo",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "619 Doncaster Rd, Doncaster"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.8139949,
+               "lng" : 144.9673174
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.81272377010727,
+                  "lng" : 144.9686613298927
+               },
+               "southwest" : {
+                  "lat" : -37.81542342989272,
+                  "lng" : 144.9659616701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ChargePoint Charging Station",
+         "place_id" : "ChIJrfH_ArZC1moRm4Ub55FKXDY",
+         "plus_code" : {
+            "compound_code" : "5XP8+CW Melbourne, Victoria",
+            "global_code" : "4RJ65XP8+CW"
+         },
+         "rating" : 0,
+         "reference" : "ChIJrfH_ArZC1moRm4Ub55FKXDY",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "200 Little Collins St, Melbourne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.8132469,
+               "lng" : 144.937184
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.81154517010728,
+                  "lng" : 144.9381228298927
+               },
+               "southwest" : {
+                  "lat" : -37.81424482989273,
+                  "lng" : 144.9354231701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tesla Destination Charger",
+         "place_id" : "ChIJuehJ2Gdd1moRpy4GVD5mc7s",
+         "plus_code" : {
+            "compound_code" : "5WPP+PV Docklands, Victoria",
+            "global_code" : "4RJ65WPP+PV"
+         },
+         "rating" : 0,
+         "reference" : "ChIJuehJ2Gdd1moRpy4GVD5mc7s",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "440 Docklands Dr, Docklands"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.8448741,
+               "lng" : 145.0420954
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.84353122010727,
+                  "lng" : 145.0434111798927
+               },
+               "southwest" : {
+                  "lat" : -37.84623087989272,
+                  "lng" : 145.0407115201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ChargePoint Charging Station",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJj9BTxhtC1moRoENkhlYIQEA",
+         "plus_code" : {
+            "compound_code" : "524R+3R Hawthorn East, Victoria",
+            "global_code" : "4RJ7524R+3R"
+         },
+         "rating" : 5,
+         "reference" : "ChIJj9BTxhtC1moRoENkhlYIQEA",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "755 Toorak Rd, Hawthorn East"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.9219276,
+               "lng" : 145.1575352
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.92058812010728,
+                  "lng" : 145.1589642298927
+               },
+               "southwest" : {
+                  "lat" : -37.92328777989273,
+                  "lng" : 145.1562645701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ChargePoint Charging Station",
+         "place_id" : "ChIJt084tj0V1moRLyP0S7fgric",
+         "plus_code" : {
+            "compound_code" : "35H5+62 Mulgrave, Victoria",
+            "global_code" : "4RJ735H5+62"
+         },
+         "rating" : 0,
+         "reference" : "ChIJt084tj0V1moRLyP0S7fgric",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "783 Springvale Rd, Mulgrave"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.8013977,
+               "lng" : 144.9427942
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.80004012010728,
+                  "lng" : 144.9441105798927
+               },
+               "southwest" : {
+                  "lat" : -37.80273977989273,
+                  "lng" : 144.9414109201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "JET Charge",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112902365237415190553\"\u003eJET Charge Pty Ltd\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDgQdcnk0gPrAeiJcnMGvq61dW-vPctVf1BQ9OX3KEs2dRwNepu6uqVdr7-LgvBy3Ald2dLCOyBa6_rF_31-l7A1yBPMG8-oLElnHWdpawyEzONYXQ3fe6tXklx6KvXBX8qlyKIzW3MVgldwy4AKLALgE-XwA84NhyCyRtPKlFRF2HN",
+               "width" : 1700
+            }
+         ],
+         "place_id" : "ChIJv-Kjmz5d1moR4Lqk8EUGbCY",
+         "plus_code" : {
+            "compound_code" : "5WXV+C4 North Melbourne, Victoria",
+            "global_code" : "4RJ65WXV+C4"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJv-Kjmz5d1moR4Lqk8EUGbCY",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "91 Munster Terrace, North Melbourne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.816238,
+               "lng" : 144.970955
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.81452052010728,
+                  "lng" : 144.9721550798928
+               },
+               "southwest" : {
+                  "lat" : -37.81722017989273,
+                  "lng" : 144.9694554201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tesla Destination Charger",
+         "place_id" : "ChIJN-dP6rdC1moRlIzWLySQuuM",
+         "plus_code" : {
+            "compound_code" : "5XMC+G9 Melbourne, Victoria",
+            "global_code" : "4RJ65XMC+G9"
+         },
+         "rating" : 0,
+         "reference" : "ChIJN-dP6rdC1moRlIzWLySQuuM",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "114 Flinders St, Melbourne"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.9078295,
+               "lng" : 145.1311389
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.90629347010728,
+                  "lng" : 145.1325204798927
+               },
+               "southwest" : {
+                  "lat" : -37.90899312989272,
+                  "lng" : 145.1298208201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Chargefox Charging Station",
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109622162266462481554\"\u003eDamien Calvert\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB4_31zVhJq-xYP2TZAv07Wm23Pvj_PWjIrCtHfZzxvFZLyEY7-I4trfumJNyErEuJ9eEv6dYCGS2hhf2AamMbuAcrYJ-jPXXSHFqdl3ZZnPkJk3hO7IRGghLI_Qm4Bu03bhm2rq6hSmEo58KM5cPf1JHjcQZuhYY0l0UBRLynUjpb5",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJyUXhqc1q1moRDts0lKArYdg",
+         "plus_code" : {
+            "compound_code" : "34RJ+VF Clayton, Victoria",
+            "global_code" : "4RJ734RJ+VF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJyUXhqc1q1moRDts0lKArYdg",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "10 Research Way, Clayton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.9584609,
+               "lng" : 145.0548509
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.95593615,
+                  "lng" : 145.05869885
+               },
+               "southwest" : {
+                  "lat" : -37.96119115,
+                  "lng" : 145.05158265
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ChargePoint Charging Station",
+         "place_id" : "ChIJC4Eg1iNs1moRpJKWuKUExfQ",
+         "plus_code" : {
+            "compound_code" : "23R3+JW Cheltenham, Victoria",
+            "global_code" : "4RJ723R3+JW"
+         },
+         "rating" : 0,
+         "reference" : "ChIJC4Eg1iNs1moRpJKWuKUExfQ",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "1239-1241 Nepean Hwy, Cheltenham"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.7836174,
+               "lng" : 145.1261033
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.78273685,
+                  "lng" : 145.12694045
+               },
+               "southwest" : {
+                  "lat" : -37.78610905,
+                  "lng" : 145.12382905
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tesla Destination Charger",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107105470832001487981\"\u003epeter\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECoWPZOvPVc9oYQebr8ASnRUop-0DAJpHLJJmGSBrcX1HAvjJGTzWFIUOrAptgf4jN2EGHPOZby5FBa5m6tThW_hPT9j2zi33vf0H7lfGrY8oPe1BMAfQxGcTGwuEHe4nUMbxcQh1xU_uyu4vGciTf9kSwG1mBR-JsHeiC1HngMMc6a",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJQULuHHBH1moRE0XhZ4kTiQA",
+         "plus_code" : {
+            "compound_code" : "648G+HC Doncaster, Victoria",
+            "global_code" : "4RJ7648G+HC"
+         },
+         "rating" : 2.2,
+         "reference" : "ChIJQULuHHBH1moRE0XhZ4kTiQA",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "619 Doncaster Rd, Doncaster"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.8760732,
+               "lng" : 145.0436879
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.87502797010728,
+                  "lng" : 145.0448392798927
+               },
+               "southwest" : {
+                  "lat" : -37.87772762989272,
+                  "lng" : 145.0421396201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Chargefox Charging Station",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJV69lYPNp1moRuI4BrYBLrKI",
+         "plus_code" : {
+            "compound_code" : "42FV+HF Malvern East, Victoria",
+            "global_code" : "4RJ742FV+HF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJV69lYPNp1moRuI4BrYBLrKI",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "880 Dandenong Rd, Malvern East"
+      }
+   ],
+   "status" : "OK"
+}
